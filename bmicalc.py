@@ -1,3 +1,6 @@
+#Victor mulila
+#sct211-0049/2022
+
 def calculate_bmi(weight, height):
 
   bmi = weight / (height ** 2)
