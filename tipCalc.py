@@ -1,3 +1,7 @@
+
+#Victor mulila
+#sct211-0049/2022
+
 def tip_calculator(bill_amount, tip_percentage, number_of_people):
 
 
