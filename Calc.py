@@ -1,9 +1,8 @@
 #Victor mulila
 #sct211-0049/2022
 class Calculator:
- def__innit__(self,x,y):
-    self.x=x
-     self.y=y
+ def__init__(self):
+    self.result=0
    
  def add(self,x, y):
   """Returns the sum of two numbers."""
