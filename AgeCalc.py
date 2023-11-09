@@ -45,7 +45,6 @@ def age_calculator(date_of_birth):
 
   return years, months, days
 
-# Example usage:
 
 date_of_birth =  input("Enter your date of birth in the format DD/MM/YY :")
 years, months, days = age_calculator(date_of_birth)
